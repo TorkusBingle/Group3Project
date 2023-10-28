@@ -1,4 +1,4 @@
-%%writefile appteam3.py
+#%%writefile appteam3.py
 
 import streamlit as st
 import pandas as pd
