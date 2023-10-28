@@ -226,4 +226,4 @@ st.plotly_chart(fig)
 # Footer
 st.sidebar.text("© 2023 Migrant Data Analysis App")
 
-!streamlit run appteam3.py --server.port=8080 --browser.serverAddress='0.0.0.0'
+#!streamlit run appteam3.py --server.port=8080 --browser.serverAddress='0.0.0.0'
